@@ -8,7 +8,7 @@ Technologies Used:
 3.csv file handling
 How to Run:
 Install pyhton on your editor
-Run:main.py
+Run:main.py and ensure that csv file is in the same folder.
 Contribution:
 Feel free to fork and improve this project.
 License:
